@@ -6,7 +6,7 @@
 
 ## 1. Executive Summary
 
-CountMe Chemicals is an Ai powered B2B chemicals commerce platform designed to digitise the procurement and supply lifecycle for chemical products. The platform connects buyers, sellers, and administrators across three coordinated client surfaces — a consumer web application, an administrative web application, and a mobile application — all of which are governed by a single centralised backend service.
+CountMe Chemicals is an AI powered B2B chemicals commerce platform designed to digitise the procurement and supply lifecycle for chemical products. The platform connects buyers, sellers, and administrators across three coordinated client surfaces — a consumer web application, an administrative web application, and a mobile application — all of which are governed by a single centralised backend service.
 
 The system facilitates the full commercial journey: product discovery, request-for-quote (RFQ) origination and negotiation, order creation, payment settlement, logistics coordination, and post-transaction operations. It incorporates artificial intelligence, real-time communication, geolocation, identity verification, and multi-channel notification delivery as first-class capabilities. The platform is containerised for consistent and reproducible deployment.
 
