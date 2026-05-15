@@ -1,6 +1,6 @@
-# CountMe Chemicals — Technical Architecture Document
+# CountMe Chemicals — Technical Architecture
 
-![CountMe Chemicals](https://countmechemicals.com/countme_logo.png)
+![CountMe Chemicals](https://countme-chemicals-production-4787.up.railway.app/countme_logo.png)
 
 ---
 
