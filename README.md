@@ -267,11 +267,9 @@ This containerised approach ensures the application runs identically across deve
 
 The platform's AI capabilities are powered by Google Gemini and are integrated in a controlled, policy-governed manner:
 
-- **Quotana (ChemNet AI Assistant):** Embedded within the ChemNet RFQ workflow, Quotana assists buyers in structuring procurement requests and helps surface relevant supplier matches. AI outputs are channelled into defined platform workflows (browse, request, negotiate) and cannot directly mutate transaction state.
-- **Market Intelligence:** Buyers and sellers receive AI-generated market trend analysis and price benchmarking insights drawn from catalogue and transaction patterns. These are advisory in nature and surfaced through dedicated analytics views.
-- **Negotiation Context:** During active negotiation, AI-assisted price guidance is available to inform counter-offer decisions.
-
-All AI interactions are bounded by the user's role and current workflow context, and the full surrounding transaction history provides a human-auditable record of any AI-influenced decisions.
+- **Quotana (AI Assistant):**  Quotana assists buyers in structuring procurement requests and helps surface relevant supplier matches.
+  
+- **Market Intelligence:** Buyers and sellers receive AI-generated market trend analysis and price benchmarking insights drawn from catalogue and transaction patterns.
 
 ---
 
